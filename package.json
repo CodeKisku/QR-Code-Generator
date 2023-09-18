@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "This will create qr images for websites addresses",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeKisku/QR-Code-Generator.git"
+  },
+  "author": "Sanatan Kisku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeKisku/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/CodeKisku/QR-Code-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}
